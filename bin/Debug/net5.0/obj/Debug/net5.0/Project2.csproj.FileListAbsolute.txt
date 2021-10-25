@@ -1,0 +1,16 @@
+C:\Users\derwe\Desktop\Project2\bin\Debug\net5.0\Project2.exe
+C:\Users\derwe\Desktop\Project2\bin\Debug\net5.0\Project2.deps.json
+C:\Users\derwe\Desktop\Project2\bin\Debug\net5.0\Project2.runtimeconfig.json
+C:\Users\derwe\Desktop\Project2\bin\Debug\net5.0\Project2.runtimeconfig.dev.json
+C:\Users\derwe\Desktop\Project2\bin\Debug\net5.0\Project2.dll
+C:\Users\derwe\Desktop\Project2\bin\Debug\net5.0\ref\Project2.dll
+C:\Users\derwe\Desktop\Project2\bin\Debug\net5.0\Project2.pdb
+C:\Users\derwe\Desktop\Project2\obj\Debug\net5.0\Project2.csprojAssemblyReference.cache
+C:\Users\derwe\Desktop\Project2\obj\Debug\net5.0\Project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derwe\Desktop\Project2\obj\Debug\net5.0\Project2.AssemblyInfoInputs.cache
+C:\Users\derwe\Desktop\Project2\obj\Debug\net5.0\Project2.AssemblyInfo.cs
+C:\Users\derwe\Desktop\Project2\obj\Debug\net5.0\Project2.csproj.CoreCompileInputs.cache
+C:\Users\derwe\Desktop\Project2\obj\Debug\net5.0\Project2.dll
+C:\Users\derwe\Desktop\Project2\obj\Debug\net5.0\ref\Project2.dll
+C:\Users\derwe\Desktop\Project2\obj\Debug\net5.0\Project2.pdb
+C:\Users\derwe\Desktop\Project2\obj\Debug\net5.0\Project2.genruntimeconfig.cache
