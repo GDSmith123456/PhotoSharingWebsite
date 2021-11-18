@@ -8,8 +8,11 @@
 
 .full-page {
   height: 100vh;
+
   width: 100%;
+
   background: coral;
+
   position: absolute;
 }
 
@@ -147,5 +150,4 @@ nav ul li a:hover {
   color: white;
   font-family: "Kaushan Script", cursive;
   padding-left: 60px;
-  padding-top: 50px;
 }
