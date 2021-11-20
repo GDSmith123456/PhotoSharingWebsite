@@ -30,7 +30,7 @@ if (isset($_POST['submit'])) {
 				$_POST['password'] = "";
 				$_POST['cpassword'] = "";
 			} else {
-				echo "<script>alert('Woops! Something Wrong Went.')</script>";
+				echo "<script>alert('Woops! Something went wrong.')</script>";
 			}
 		} else {
 			echo "<script>alert('Woops! Email Already Exists.')</script>";
@@ -53,7 +53,7 @@ if (isset($_POST['submit'])) {
 
 	<link rel="stylesheet" type="text/css" href="style.css">
 
-	<title>Register Form - Pure Coding</title>
+	<title>Register Form</title>
 </head>
 <body>
 	<div class="container">

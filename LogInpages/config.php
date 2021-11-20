@@ -3,7 +3,7 @@
 $server = "localhost";
 $user = "root";
 $pass = "";
-$database = "webapp";
+$database = "login_register";
 
 $conn = mysqli_connect($server, $user, $pass, $database);
 
