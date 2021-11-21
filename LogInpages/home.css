@@ -159,3 +159,10 @@ body {
   font-family: "Kaushan Script", cursive;
   padding-left: 60px;
 }
+
+.metaContain {
+  width: 300px;
+  height: 400px;
+  top: center;
+  left: center;
+}
